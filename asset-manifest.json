@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fc9483a.css",
+    "main.js": "/static/js/main.5e7e2db4.js",
+    "static/media/backgroundtowing.png": "/static/media/backgroundtowing.132ed0f4cd1ae081ba4f.png",
+    "static/media/BMtowing.jpeg": "/static/media/BMtowing.38159d563879f28e85db.jpeg",
+    "index.html": "/index.html",
+    "main.5fc9483a.css.map": "/static/css/main.5fc9483a.css.map",
+    "main.5e7e2db4.js.map": "/static/js/main.5e7e2db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fc9483a.css",
+    "static/js/main.5e7e2db4.js"
+  ]
+}
